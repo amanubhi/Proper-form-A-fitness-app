@@ -1,0 +1,36 @@
+Senior Project (Proper Form, name TBD)
+
+Features:
+
+	Display list of workouts
+	Workouts are each clickable and display information
+
+	Routine Generator -
+
+		Ability for user to choose which body parts to focus
+		Able to randomly generate a workout for the user
+		User able to generate their own workouts.
+
+	User Profile Creation- 
+		
+		Users can create and customize a profile, containing basic information and a body profile
+		Body profile will consist of : age, body injuries or areas of concern, areas the user wants to augment.
+		User profile will also contain a location information to allow the user to choose to connect with users in their area.
+	
+	Community Fitness:
+		
+		Users can store the workouts they did and keep track and accountability to their fitness
+		Leaderboards can show which users have been on track the longest and leading the healthiest life choices for themselves
+		Users can choose to talk and meetup with users tagged in the same areas as themselves. 
+		
+	Diet Nutrition:
+
+		Users can keep track of their nutrtion and maintain accountability of their diet
+		Users will be able to store a record of what they eat and tally up calories.
+		
+		
+		
+	Running the app
+		go into folder and then type into cmd "expo start"
+		then go to android studio and run an android emulator and then type "a" into cmd after it sets it up
+		then it will find the emulator and run it.
